@@ -7,3 +7,5 @@ PORT_REDIS = 6379
 PORT_APP = 5000
 
 PASSWORD = ''
+
+DEBUG = False
