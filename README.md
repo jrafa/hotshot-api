@@ -7,7 +7,7 @@ API hotshot-api displays the current and archival data products offer "hot shot"
 /hotshots/date/<date_hotshot> - display data from one day
 ```
 
-### Install
+### Install packages
 ```
 pip install -r requirements.txt
 ```
