@@ -18,5 +18,5 @@ python manage.py runserver
 ```
 ***
 ### Examples:
-* http://hotshot.ga/hotshots
-* http://hotshot.ga/hotshots/date/2015-11-20
+* http://hotshotapi.pl/hotshots
+* http://hotshotapi.pl/hotshots/date/2015-11-20
